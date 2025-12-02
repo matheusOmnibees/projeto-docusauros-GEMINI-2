@@ -43,7 +43,7 @@ Nesta aba, será necessário preencher os campos de **“Detalhes Principais”*
 *   **Nome Comercial:** defina o nome do tarifário que será exibido nos portais de busca e, em seguida, faça a tradução.
 *   **Descrição**: insira detalhes sobre o tarifário que será criado.
 *   **Tipo de Tarifário**: informe qual será o tipo de tarifa: 
-    *   o **Net**: para preço de tarifa líquida *(para este tipo, caso seja inserido ‘mark-up’ para os canais de vendas, o sistema considerará apenas como informativo. No entanto se for inserida erroneamente a informação de ‘comissionada’, o sistema somará a porcentagem informado ao valor da tarifa).*
+    *   o **Net**: para preço de tarifa líquida *(para este tipo, caso seja inserido ‘mark-up’ para os canais de vendas, o sistema considerará apenas como informativo. No entanto se for inserida erroneamente a informaçao de ‘comissionada’, o sistema somará a porcentagem informado ao valor da tarifa).*
     *   o **Comissionado**: para preço de tarifa pública *(para esse tipo de tarifário, caso seja inserido um mark-up nos canais de venda, o sistema irá **subtrair** a porcentagem informada do valor da tarifa.).*
 *   **Moeda**: selecione o tipo de moeda do tarifário.
 *   **Tipo de Disponibilidade**: informe qual será o tipo de disponibilidade (como será feita a distribuição da quantidade dos tipos de quartos para venda):
