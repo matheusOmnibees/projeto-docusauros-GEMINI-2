@@ -152,7 +152,7 @@ Ao atribuí-las ao tarifário, será possível aplicar uma **variação de preç
 
 As ‘empresas’ estão conectadas ao **“Canal Empresas”** e, nessa aba, será possível atribuí-las ao tarifário.  
 
-E aqui também, ao selecionar **“Tarifário Público”**, o sistema irá ***“Disponibilizar automaticamente este tarifário a todos os Agentes de Viagem e Empresas”***, não precisando atribuí-las a lista de ‘empresas atribuídas’ à direita:
+E aqui também, ao selecionar **“Tarifário Púbico”**, o sistema irá ***“Disponibilizar automaticamente este tarifário a todos os Agentes de Viagem e Empresas”***, não precisando atribuí-las a lista de ‘empresas atribuídas’ à direita:
 
 Caso a criação do tarifário seja para estratégias de tarifa acordo, ao selecionar a opção **“Tarifa Acordo”** na Categoria de Tarifários, na aba Configurações, a opçã **“Tarifário Público”** será automaticamente desmarcada. 
 
@@ -333,7 +333,7 @@ Além das opções de “Criar Tarifário Derivado” e “Criar Pacote Derivado
 *   **Inativar Tarifário:** alterar o status do tarifário para inativo.
 *   **Compartilhar:** compartilhar as informações dos tarifários ou pacotes por Facebook, LinkedIn, Twitter e E-mail.
 *   **URL do Motor de Reservas:** obter link do tarifário, caso o canal Booking Engine (BeeDirect Motor de Reservas Omnibees) esteja atribuído.
-*   **Histórico de Alterações:** consultar as alterações realizadas no tarifário ou pacote.
+*   **Histórico de Alteraçõs:** consultar as alterações realizadas no tarifário ou pacote.
 
 E na opção**, “Mais Opções” que aparece ao lado dos botões “Editar”** e **“Eliminar”** será possível visualizar a numeração do **“ID do Tarifário”** e acessar o **‘Histórico de Alteraçõs’**:
 
@@ -367,7 +367,7 @@ Aqui será possível **visualizar a lista** de tarifários **“Atuais e Elimina
 
 ### IMPORTANTE SABER!
 
-*   **<u>ATENÇÃO</u>: APÓS A CRIAÇÃO DE UM NOVO TARIFÁRIO OU PACOTE, É NECESSÁRIO SOLICITAR O MAPEAMENTO PARA A CONEXÃO DO PMS DO HOTEL COM A OMNIBEES. CASO O TARIFÁRIO SEJA CRIADO PARA CONEXÕES COM AS OTAS (BOOKING.COM, EXPEDIA, DECOLAR, ETC.), TAMBÉM SERÁ NECESSÁRIO SOLICITAR O MAPEAMENTO.**
+*   **ATENÇÃO**: APÓS A CRIAÇÃO DE UM NOVO TARIFÁRIO OU PACOTE, É NECESSÁRIO SOLICITAR O MAPEAMENTO PARA A CONEXÃO DO PMS DO HOTEL COM A OMNIBEES. CASO O TARIFÁRIO SEJA CRIADO PARA CONEXÕES COM AS OTAS ([BOOKING.COM](http://BOOKING.COM), EXPEDIA, DECOLAR, ETC.), TAMBÉM SERÁ NECESSÁRIO SOLICITAR O MAPEAMENTO.
 
 Para mais informações contate: o nosso atendimento online CHAT - ou através do e-mail: [servicedesk@omnibees.com](mailto:servicedesk@omnibees.com).
 
