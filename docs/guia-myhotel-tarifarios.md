@@ -5,9 +5,9 @@ description: NESTE GUIA, VOCÊ VAI APRENDER A CRIAR E CONFIGURAR OS TARIFÁRIOS 
 slug: /
 ---
 
-# TARIFÁRIOS E DISPONIBILIDADE: TARIFÁRIOS
-
 ![imagem-2](/assets/guia-myhotel-tarifarios/imagem-2.webp)
+
+# TARIFÁRIOS E DISPONIBILIDADE: TARIFÁRIOS
 
 NESTE GUIA, VOCÊ VAI APRENDER A CRIAR E CONFIGURAR OS TARIFÁRIOS E PACOTES DO SEU HOTEL! 
 
@@ -21,11 +21,11 @@ O caminho para acessar a aba de tarifários é: **Menu de Navegação > Gestão 
 
 **AO ABRIR A ABA DE TARIFÁRIOS, A OPÇÃO ‘MOSTRAR APENAS TARIFÁRIOS ATIVOS’ ESTARÁ HABILITADA, EXIBINDO APENAS OS TARIFÁRIOS ‘ATIVOS’. PARA VISUALIZAR OS TARIFÁRIOS ‘INATIVOS’, DESABILITE ESTA OPÇÃO:**
 
+![imagem-6](/assets/guia-myhotel-tarifarios/imagem-6.webp)
+
 ### + Criar Novo:
 
 Para criar um novo tarifário ou pacote, clique em **“+ Criar Novo”** e selecione **“Criar Novo Tarifário ou Criar Novo Pacote”**: 
-
-![imagem-6](/assets/guia-myhotel-tarifarios/imagem-6.webp)
 
 ![imagem-7](/assets/guia-myhotel-tarifarios/imagem-7.webp)
 
@@ -35,7 +35,7 @@ Em seguida, será preciso seguir com as **configurações das abas** que complet
 
 Nesta aba, será necessário preencher os campos de **“Detalhes Principais”** e **“Período de Venda e outras Informações”**: 
 
-#### → *Detalhes Principais:* 
+→ ***Detalhes Principais:*** 
 
 ![imagem-9](/assets/guia-myhotel-tarifarios/imagem-9.webp)
 
@@ -56,7 +56,7 @@ Nesta aba, será necessário preencher os campos de **“Detalhes Principais”*
 
 **AO SELECIONAR A OPÇÃO “TARIFA ACORDO”, O SISTEMA DESMARCARÁ O CAMPO “TARIFÁRIO PÚBLICO” NAS ABAS DE AGÊNCIAS E EMPRESAS, PERMITINDO A CONFIGURAÇÃO INDIVIDUAL DOS CANAIS DESSAS ABAS QUE FAZEM PARTE DO ACORDO. (VER MAIS INFORMAÇÕES NAS PÁGINAS 12 a 16).**
 
-#### → *Período de Vendas e outras informações* 
+→ ***Período de Vendas e outras informações*** 
 
 ![imagem-12](/assets/guia-myhotel-tarifarios/imagem-12.webp)
 
@@ -129,7 +129,7 @@ Após atribuir as operadoras, defina as suas configurações. Para isso, selecio
 
 As ‘agências’ estão conectadas ao **‘Canal TMC’** e, nessa aba, será possível atribuí-las ao tarifário.  
 
-Ao selecionar **“Tarifário Público”**, o sistema irá ***“atribuir automaticamente todos os Agentes de Viagem do "Canal TMC" a este tarifário, se este estiver atribuído na lista de canais”***, não precisando atribuí-las individualmente a lista de agencias atribuídas (à direita)*.*
+Ao selecionar **“Tarifário Púbico”**, o sistema irá ***“atribuir automaticamente todos os Agentes de Viagem do "Canal TMC" a este tarifário, se este estiver atribuído na lista de canais”***, não precisando atribuí-las individualmente a lista de agencias atribuídas (à direita)*.*
 
 ![imagem-24](/assets/guia-myhotel-tarifarios/imagem-24.webp)
 
@@ -141,7 +141,7 @@ Será necessário **atribuir apenas as agências com as quais o hotel possui aco
 
 ![imagem-27](/assets/guia-myhotel-tarifarios/imagem-27.webp)
 
-Ao atribuí-las ao tarifário, será possível aplicar uma **variação de preço**:
+Ao atribuí-las ao tarifário, será possível aplicar uma **variaçao de preço**:
 
 ![imagem-29](/assets/guia-myhotel-tarifarios/imagem-29.webp)
 
@@ -154,7 +154,7 @@ As ‘empresas’ estão conectadas ao **“Canal Empresas”** e, nessa aba, se
 
 E aqui também, ao selecionar **“Tarifário Púbico”**, o sistema irá ***“Disponibilizar automaticamente este tarifário a todos os Agentes de Viagem e Empresas”***, não precisando atribuí-las a lista de ‘empresas atribuídas’ à direita:
 
-Caso a criação do tarifário seja para estratégias de tarifa acordo, ao selecionar a opção **“Tarifa Acordo”** na Categoria de Tarifários, na aba Configurações, a opçã **“Tarifário Público”** será automaticamente desmarcada. 
+Caso a criação do tarifário seja para estratégias de tarifa acordo, ao selecionar a opção **“Tarifa Acordo”** na Categoria de Tarifários, na aba Configurações, a opção **“Tarifário Público”** será automaticamente desmarcada. 
 
 Será necessário **atribuir apenas as empresas com as quais o hotel possui acordos**, individualmente, clicando no ícone de **“+”** ao lado do nome da empresa ou “arrastando e soltando” a(s) empresa(s) na lista de empresas atribuídas (à direita): 
 
@@ -222,7 +222,7 @@ Para as “**Políticas Gerais**, **Políticas de Garantia de Pagamentos e Polí
 
 ![imagem-41](/assets/guia-myhotel-tarifarios/imagem-41.webp)
 
-Para aplicar políticas para diferentes períodos nas “**Políticas de Garantia de Pagamento** e **Políticas de Cancelamento”**, serâ possîvel atribuir políticas adicionais ao tarifário após selecionar a política padrão.
+Para aplicar políticas para diferentes períodos nas “**Políticas de Garantia de Pagamento** e **Políticas de Cancelamento”**, será possível atribuir políticas adicionais ao tarifário após selecionar a política padrão.
 
 Para isso, clique no ícone de **“+”** exibido ao lado do nome de cada política ou **“arraste e solte”** a política na lista de políticas atribuídas (à direita).
 
@@ -268,11 +268,11 @@ Também é possível acessar essas opções clicando com o **botão direito do m
 
 ![imagem-48](/assets/guia-myhotel-tarifarios/imagem-48.webp)
 
-Hâ ainda outra possibilidade: ao clicar em um tarifário principal, aparecerá o botão **“Mais Opções”** ao lado dos botões **“Editar e Eliminar”**, onde também estarão disponíveis as opções **“Tarifário Derivado”** e **“Pacote Derivado”**:
+Há ainda outra possibilidade: ao clicar em um tarifário principal, aparecerá o botão **“Mais Opções”** ao lado dos botões **“Editar e Eliminar”**, onde também estarão disponíveis as opções **“Tarifário Derivado”** e **“Pacote Derivado”**:
 
 ![imagem-50](/assets/guia-myhotel-tarifarios/imagem-50.webp)
 
-#### → *TARIFÁRIO DERIVADO:*
+→ ***TARIFÁRIO DERIVADO:***
 
 Na criação de um “**Tarifário Derivado”**, além de configurar todas as abas mencionadas anteriormente para a criação de um **Novo Tarifário**, será possível aplicar “**Regras de Derivação”** na aba **Configurações**.
 
@@ -289,7 +289,7 @@ Na criação de um “**Tarifário Derivado”**, além de configurar todas as a
 
 Após configurar todas as abas, clique em **“Salvar”** para que o sistema crie o tarifário derivado.
 
-#### → *PACOTE DERIVADO:*
+→ ***PACOTE DERIVADO:***
 
 Na criação de um **“Pacote Derivado”**, além de configurar todas as abas mencionadas anteriormente para a criação de um **Novo Tarifário**, também será possível aplicar as **Regras de Derivação**, conforme mencionado na criação de **Tarifários Derivados**. No entanto, para **Pacotes Derivados**, há ainda a possibilidade de carregar **“Foto** e **Anexo”**.
 
@@ -322,7 +322,7 @@ Após criar um novo tarifário ou pacote na pasta, será possível criar “**ta
 
 ### Demais Informações:
 
-#### → *BOTÃO ‘MAIS OPÇÃO’:*
+→ ***BOTÃO ‘MAIS OPÇÃO’:***
 
 Além das opções de “Criar Tarifário Derivado” e “Criar Pacote Derivado”, também será possível:  
 
@@ -337,29 +337,33 @@ Além das opções de “Criar Tarifário Derivado” e “Criar Pacote Derivado
 
 E na opção**, “Mais Opções” que aparece ao lado dos botões “Editar”** e **“Eliminar”** será possível visualizar a numeração do **“ID do Tarifário”** e acessar o **‘Histórico de Alteraçõs’**:
 
-#### → *BOTÕES “EDITAR” E “ELIMINAR”:*
+→ ***BOTÕES “EDITAR” E “ELIMINAR”:***
+
+![imagem-61](/assets/guia-myhotel-tarifarios/imagem-61.webp)
 
 Ao clicar sobre um tarifário ou pacote, no topo da aba aparecerão os botões de **“Editar ou Eliminar”** um tarifário ou pacote:
 
-![imagem-62](/assets/guia-myhotel-tarifarios/imagem-62.webp)
+→ ***STATUS DO TARIFÁRIO:***
 
-#### → *STATUS DO TARIFÁRIO:*
+![imagem-62](/assets/guia-myhotel-tarifarios/imagem-62.webp)
 
 Será possível alterar o **“status do tarifário ou pacote”**, definindo-o como: **“Ativo ou Inativo”**:
 
-#### → *BOTÃO “VER PREÇOS”:*
+→ ***BOTÃO “VER PREÇOS”:***
+
+![imagem-63](/assets/guia-myhotel-tarifarios/imagem-63.webp)
 
 Ao clicar em **“Ver Preços”**, o sistema abrirá o **“Calendário 360”** do tarifário ou pacote selecionado:
 
 ![imagem-64](/assets/guia-myhotel-tarifarios/imagem-64.webp)
 
-#### → *FILTROS: PESQUISAR, AGRUPAR POR E ORDENAR POR’:*
+→ ***FILTROS: PESQUISAR, AGRUPAR POR E ORDENAR POR’:***
 
 Em **“Pesquisar”** será possível buscar pelo nome do tarifário desejado. Também é possível **“Agrupar por:** ***Tarifário, Tipo de Quarto, Canal e Nível de Fidelização***” e **“Ordenar por:** ***Mais recentes no topo, mais antigas no topo, Ordem alfabética (A-Z) e ordem alfabética inversa (Z-A)”***.
 
 ![imagem-65](/assets/guia-myhotel-tarifarios/imagem-65.webp)
 
-#### → *ATUAIS E ELIMINADOS:*
+→ ***ATUAIS E ELIMINADOS:***
 
 Aqui será possível **visualizar a lista** de tarifários **“Atuais e Eliminados”**:
 
@@ -367,7 +371,7 @@ Aqui será possível **visualizar a lista** de tarifários **“Atuais e Elimina
 
 ### IMPORTANTE SABER!
 
-*   **ATENÇÃO**: APÓS A CRIAÇÃO DE UM NOVO TARIFÁRIO OU PACOTE, É NECESSÁRIO SOLICITAR O MAPEAMENTO PARA A CONEXÃO DO PMS DO HOTEL COM A OMNIBEES. CASO O TARIFÁRIO SEJA CRIADO PARA CONEXÕES COM AS OTAS ([BOOKING.COM](http://BOOKING.COM), EXPEDIA, DECOLAR, ETC.), TAMBÉM SERÁ NECESSÁRIO SOLICITAR O MAPEAMENTO.
+*   **<u>ATENÇÃO</u>**: APÓS A CRIAÇÃO DE UM NOVO TARIFÁRIO OU PACOTE, É NECESSÁRIO SOLICITAR O MAPEAMENTO PARA A CONEXÃO DO PMS DO HOTEL COM A OMNIBEES. CASO O TARIFÁRIO SEJA CRIADO PARA CONEXÕES COM AS OTAS ([BOOKING.COM](http://BOOKING.COM), EXPEDIA, DECOLAR, ETC.), TAMBÉM SERÁ NECESSÁRIO SOLICITAR O MAPEAMENTO.
 
 Para mais informações contate: o nosso atendimento online CHAT - ou através do e-mail: [servicedesk@omnibees.com](mailto:servicedesk@omnibees.com).
 
